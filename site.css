@@ -1,0 +1,9 @@
+body {
+  margin:0;
+}
+
+.sp-video {
+  width: 33.33%;
+  float: left;
+  pointer-events: none;
+}
