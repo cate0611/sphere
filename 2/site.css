@@ -1,0 +1,11 @@
+body {
+  background-color: #C1C1C1;
+}
+
+.sp-video {
+  position: relative;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
